@@ -1,0 +1,15 @@
+{
+  "name": "BitcoinBeastie",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
