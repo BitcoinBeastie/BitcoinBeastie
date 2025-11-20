@@ -1,0 +1,1 @@
+<!-- Banner / Header Area --><div align="center"><h1>👾 Code Playground 👾</h1><p><b>Scripting · Modding · Blockchain</b></p><p>Experiments in automation, Dwarf Fortress logic, and distributed systems.</p><br /><!-- Support / Donate Section --><a href="#"><img src="donate.png" alt="Donate Button" width="200" /></a></div>
